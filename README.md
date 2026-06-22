@@ -7,8 +7,8 @@
 > 专注于 AI 产品落地，目标是把技术转化为可持续的产品与收入。
 
 <!-- <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guodong96&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guodong96&layout=compact" height="180" />
 </p> -->
 
 ## 🍉 技术栈
@@ -18,6 +18,7 @@
 [![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)](https://www.elastic.co/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-ai)
+[![Python](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://www.python.org/)
 
 ## 🚀 正在构建
  - 🤖 [mealmate](https://github.com/GDforever/MealMate) - 美食推荐
@@ -33,23 +34,23 @@
 <!--
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/zhengzhuangpro)
+![GitHub Contribution Graph](https://ghchart.rshah.org/GDforever)
 -->
 
 <!--
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,vue,nodejs,tailwindcss,go,flutter,dart,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,redis,rocketMq,Elastic,Mysql,springAi,python)](https://skillicons.dev)
 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhengzhuang96&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengzhuang96&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guodong96&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guodong96&layout=compact&theme=radical" height="180" />
 </p>
 
-![](https://profile-counter.glitch.me/zhengzhuang96/count.svg)
+![](https://profile-counter.glitch.me/guodong96/count.svg)
 -->
 
 <!--
-**zhengzhuang96/zhengzhuang96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**guodong96/guodong96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
