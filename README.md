@@ -1,10 +1,10 @@
 ### Hi, I'm guodong (郭栋) 👋
 
-#### 📍 中国北京
+#### 📍 中国安徽合肥
 
 > I build AI products and developer tools that generate real value.
 > 
-> 专注于 AI 产品落地，目标是把技术转化为可持续的产品与收入。
+> 专注于 AI Agent产品落地，目标是把技术转化为可持续的产品与收入。
 
 <!-- <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=guodong96&show_icons=true" height="180" />
