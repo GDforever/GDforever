@@ -27,7 +27,7 @@
 
 - AI + 自动化带来的杠杆
 
-## 📚 最新博客文章
+## 📚 最新公众号文章
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
